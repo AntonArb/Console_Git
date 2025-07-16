@@ -10,7 +10,7 @@ namespace Console_Git
     {
         public NewClass()
         {
-            Console.WriteLine("Команда разработчиков 1");
+            Console.WriteLine("Команда разработчиков 2");
         }
 
     }
