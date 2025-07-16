@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Console_Git
 {
-    internal class Class1
+    internal class NewClass
     {
         public NewClass()
         {
